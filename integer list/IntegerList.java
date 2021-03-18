@@ -7,7 +7,7 @@ package intlist;
 
 /**
  *
- * @author asus
+ * @author GemintangSangkajiFurqon
  */
 // ****************************************************************
 // IntegerList.java

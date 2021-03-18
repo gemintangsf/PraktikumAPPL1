@@ -7,7 +7,7 @@ package coloring;
 
 /**
  *
- * @author asus
+ * @author GemintangSangkajiFurqon
  */
 // ******************************************************************
 // MoveCircle.java
