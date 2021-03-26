@@ -2,7 +2,7 @@ package enhancingamovablecircle;
 
 /**
  *
- * @author asus
+ * @author user
  */
 // ******************************************************************
 // MoveCircle.java
@@ -12,9 +12,7 @@ package enhancingamovablecircle;
 // ******************************************************************
 import java.awt.*;
 import javax.swing.*;
-
 public class MoveCircle {
-
     public static void main(String[] args) {
         JFrame frame = new JFrame("MoveCircle");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
