@@ -1,5 +1,4 @@
 package enhancingamovablecircle;
-
 /**
  *
  * @author user
